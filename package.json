@@ -1,0 +1,23 @@
+{
+  "name": "socket-practice",
+  "version": "1.0.0",
+  "description": "Practice how to use Socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodsentMichael/Socket-practice.git"
+  },
+  "author": "Godsent Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodsentMichael/Socket-practice/issues"
+  },
+  "homepage": "https://github.com/GodsentMichael/Socket-practice#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
